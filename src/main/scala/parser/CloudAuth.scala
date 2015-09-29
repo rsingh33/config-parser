@@ -3,6 +3,7 @@ package parser
 /**
  * Created by rs79538 on 09/29/2015.
  */
+ // this the class for cloud auth
 class CloudAuth(path1: String, path2: String) {
   println("CLOUD-AUTH")
   println()
