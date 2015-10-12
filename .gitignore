@@ -1,5 +1,10 @@
+.idea
+.svn
+logs/
+target/
 *.iml
-/target
-.idea/
-/out/
-.idea_modules/
+*.patch
+*.gz
+*.sc
+*.txt
+
